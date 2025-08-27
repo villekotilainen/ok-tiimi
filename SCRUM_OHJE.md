@@ -5,6 +5,7 @@ OK-tiimi
 Ohjelmistoprojekti 1 -kurssin OK-tiimin harjoitusrepositorio
 
 Scrum-syklin yleiskuvaus
+## Scrum-syklin yleiskuvaus
 
 Scrum on ketterä menetelmä, jossa työtä tehdään pienissä, toistuvissa jaksoissa, joita kutsutaan sprinteiksi. Jokainen sykli alkaa siitä, että tiimi miettii, mitä projektissa on tärkeää seuraavaksi tehdä. Sitten jokainen tiimin jäsen valitsee tehtäviä ja ryhtyy toteuttamaan niitä yhdessä sovitun aikataulun mukaan.
 
@@ -59,3 +60,8 @@ Sprint Retrospective: arviointikokous, jossa pohditaan, mikä sujui hyvin ja mit
 Miksi Scrum toimii?
 
 Scrum toimii, koska se jakaa työn selkeisiin jaksoihin ja tekee projektin etenemisen näkyväksi. Säännölliset kokoukset ja työjonot auttavat tiimiä kommunikoimaan tehokkaasti ja reagoimaan nopeasti muutoksiin. Iteratiivinen työskentely mahdollistaa jatkuvan oppimisen ja parantamisen, mikä lisää projektin onnistumisen mahdollisuuksia ja tiimin tyytyväisyyttä.
+
+## Sprintit
+Sprintit on yhden tai kahden viikon mittaisia työjaksoja, joihin valitaan rakennettava ominaisuus alla olevasta työjonosta.
+
+Sprintin suunnittelussa tiimi (ja joissain määrin) Product Owner valitsee sillä hetkellä tärkeimmän ominaisuuden, ns. listan päältä.
