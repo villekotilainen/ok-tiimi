@@ -11,3 +11,8 @@ Sykli toistuu projektin ajan, mikä mahdollistaa joustavan reagoinnin muutoksiin
 
 
 ## Sprintit
+
+## Sprintit
+Sprintit on yhden tai kahden viikon mittaisia työjaksoja, joihin valitaan rakennettava ominaisuus alla olevasta työjonosta.
+
+Sprintin suunnittelussa tiimi (ja joissain määrin) Product Owner valitsee sillä hetkellä tärkeimmän ominaisuuden, ns. listan päältä.
