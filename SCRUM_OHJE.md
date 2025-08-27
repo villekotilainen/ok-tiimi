@@ -43,3 +43,14 @@ Sprintin suunnittelussa tiimi (ja joissain määrin) Product Owner valitsee sill
 - Tiimi suunnittelee itse, miten tavoitteet saavutetaan.
 
 - Jokaisella jäsenellä on eri osaamisalueita → moniosaava tiimi.
+
+## Työjonot
+### Tuotteen kehitysjono
+Tuotteen kehitysjono on lista asioita, joita tarvitaan tuotteen parantamiseksi. Se syntyy vähitellen ja toimii lähteenä kehitystiimissä tehtävälle työlle.
+### Sprintin kehitysjono
+Sprintin kehitysjono on tuotteen kehitysjonosta valikoitu lista asioista jotka toteutetaan yhden sprintin aikana. Kehittäjät suunnittelevat sen itse ja sitä tarkennetaan sprintin aikana tarpeen mukaan.
+
+**Sprintin kehitysjono koostuu:** 
+- Sprintin tavoitteesta
+- Tuotteen kehitysjonosta valituista kohdista, jotka sprintissä toteutetaan
+- Käytännön suunnitelmasta tavoitteiden toteuttamiseksi
