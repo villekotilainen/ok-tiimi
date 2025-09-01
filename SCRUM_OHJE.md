@@ -54,3 +54,26 @@ Sprintin kehitysjono on tuotteen kehitysjonosta valikoitu lista asioista jotka t
 - Sprintin tavoitteesta
 - Tuotteen kehitysjonosta valituista kohdista, jotka sprintissä toteutetaan
 - Käytännön suunnitelmasta tavoitteiden toteuttamiseksi
+
+## Kokoukset
+Scrumissa on neljä keskeistä kokousta, joilla varmistetaan työn eteneminen:
+
+1. Sprintin suunnittelu (Sprint Planning)  
+   Tiimi ja Product Owner valitsevat yhdessä, mitä sprintissä tehdään ja miten tavoitteet saavutetaan.  
+
+2. Päivittäinen Scrum (Daily Scrum / Daily Stand-up)  
+   Lyhyt, noin 15 minuutin kokous, jossa jokainen kertoo mitä teki eilen, mitä tekee tänään ja onko esteitä työn etenemiselle.  
+
+3. Sprintin katselmointi (Sprint Review)  
+   Sprintin lopussa tarkastellaan yhdessä mitä saatiin valmiiksi ja esitellään toimiva tuoteversio.  
+
+4. Sprintin retrospektiivi (Sprint Retrospective)  
+   Tiimi pohtii, miten yhteistyötä ja prosessia voisi parantaa seuraavassa sprintissä.  
+
+
+## Miksi Scrum toimii?
+- Joustavuus: Scrum mahdollistaa nopean reagoinnin muutoksiin.  
+- Läpinäkyvyys: Kaikki näkevät missä mennään ja mitä on tehty.  
+- Yhteistyö: Tiimi oppii toimimaan yhdessä ja tukee toisiaan.  
+- Jatkuva parantaminen: Retrospektiivien avulla prosessia kehitetään koko ajan.  
+- Asiakasarvo: Työ perustuu priorisoituun tuotejonoon, joten tärkeimmät asiat tehdään ensin.  
