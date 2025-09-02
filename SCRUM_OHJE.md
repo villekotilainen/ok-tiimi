@@ -1,5 +1,9 @@
 # OK-TIIMIN SCRUM-OHJE
 
+![Scrum-syklin kuvaus](image/scrum_pic.png)
+
+---
+
 ## Scrum-syklin yleiskuvaus
 
 Scrum on ketterä menetelmä, jossa työtä tehdään pienissä, toistuvissa jaksoissa, joita kutsutaan sprinteiksi. Jokainen sykli alkaa siitä, että tiimi miettii, mitä projektissa on tärkeää seuraavaksi tehdä. Sitten jokainen tiimin jäsen valitsee tehtäviä ja ryhtyy toteuttamaan niitä yhdessä sovitun aikataulun mukaan.
