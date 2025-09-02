@@ -1,6 +1,6 @@
 # OK-TIIMIN SCRUM-OHJE
 
-![Scrum-syklin kuvaus](image/scrum_pic.png)
+![Scrum-syklin kuvaus](image/scrum_pic.jpg)
 
 ---
 
